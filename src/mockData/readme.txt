@@ -1,0 +1,1 @@
+This Folder is created to store the data sent from APIs
